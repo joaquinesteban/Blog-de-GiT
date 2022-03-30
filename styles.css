@@ -12,7 +12,7 @@ main{
 
 main > .container{
     width: 500px;
-    height: 300px;
+    height: auto;
     border: 1px solid black;
     box-shadow: 4px 4px 4px 6px black;
     
