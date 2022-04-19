@@ -7,3 +7,5 @@ Experimento 2
 main 1
 
 Hola me llamo joaquin esteban y soy alumno de Platzi
+
+Actualmente trabajo en un supermercado
