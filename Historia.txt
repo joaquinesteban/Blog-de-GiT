@@ -1,3 +1,7 @@
 Hola me llamo Joaquin Esteban hoy estamos practicando con git rebase
 
+Experimento 1
+
+Experimento 2
+
 main 1
